@@ -1,2 +1,0 @@
-# WiproTechTalkServer
-Node with mongodb
